@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Riyaz%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau&descAlignY=62&descSize=16" width="100%"/>
 
-<a href="https://mohamedriyaz31.github.io/Riyaz-Portfolio/">Portfolio</a> •
-<a href="https://linkedin.com/in/mohamed-riyaz31">LinkedIn</a> •
-<a href="mailto:riyaz312005@gmail.com">Email</a> •
-<a href="https://github.com/riyaz312005">GitHub</a>
+<a href="https://mohamedriyaz31.github.io/Riyaz-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mohamed-riyaz31"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:riyaz312005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/riyaz312005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Fresher;SQL+%2B+Python+%2B+Power+BI+%2B+Tableau;Built+Real-Time+ML+%2B+Analytics+Pipelines;Turning+Raw+Data+Into+Decisions" alt="Typing SVG" />
 
