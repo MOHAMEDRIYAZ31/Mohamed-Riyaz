@@ -125,6 +125,14 @@ print(me.motto())
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/riyaz312005/riyaz312005/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
 ### 💼 Work Experience
 
 <details>
