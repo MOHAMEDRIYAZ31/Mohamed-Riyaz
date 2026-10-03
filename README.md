@@ -208,7 +208,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech — CSE (Data Science) | Periyar Maniammai Institute of Science & Technology | 2022 – 2026 | CGPA: 7.2/10 |
+| B.Tech — CSE (Data Science) | Periyar Maniammai Institute of Science & Technology | 2022 – 2026 | CGPA: 7.4/10 |
 
 </div>
 
